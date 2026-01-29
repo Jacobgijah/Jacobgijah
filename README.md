@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Motoko**
 
-- 💬 Ask me about **Internet Computer - ICP, Django, Python, JavaScript, Motoko**
+- 💬 Ask me about **Internet Computer - ICP, Django, Python, JavaScript, Motoko** and **Bitcoin ₿**
 
 - 📫 How to reach me **jacobgijjah@yahoo.com**
 
