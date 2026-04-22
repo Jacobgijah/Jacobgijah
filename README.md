@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jacobgijah.io" target="_blank">
+  <a href="https://jeco-site.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:jacobgijjah@yahoo.com">
@@ -21,8 +21,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[hopechain-frontend](https://github.com/Jacobgijah/hopechain-frontend.git)**
-- 🌱 Currently learning **React** and **Motoko**
+- 🔭 Currently working on **[Orange-Pages](https://github.com/Jacobgijah/arusha-bitcoin-connect.git)**
+- 🌱 Currently learning **Angular** and **C# - DotNET**
 - 💬 Ask me about **Bitcoin**, **Internet Computer (ICP)**, **Django**, **Python**, **JavaScript**, and **Motoko**
 - 📫 Reach me at **jacobgijjah@yahoo.com**
 - ⚡ Fun fact: **I enjoy connecting with new people and building meaningful tech communities**
