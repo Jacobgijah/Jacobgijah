@@ -9,7 +9,7 @@
   <a href="https://jeco-site.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="mailto:jacobgijjah@yahoo.com">
+  <a href="mailto:jecobit@bitcoinarusha.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://twitter.com/gijjah_jacob" target="_blank">
@@ -24,7 +24,7 @@
 - 🔭 Currently working on **[Orange-Pages](https://github.com/Jacobgijah/arusha-bitcoin-connect.git)**
 - 🌱 Currently learning **Angular** and **C# - DotNET**
 - 💬 Ask me about **Bitcoin**, **Internet Computer (ICP)**, **Django**, **Python**, **JavaScript**, and **Motoko**
-- 📫 Reach me at **jacobgijjah@yahoo.com**
+- 📫 Reach me at **jecobit@bitcoinarusha.com**
 - ⚡ Fun fact: **I enjoy connecting with new people and building meaningful tech communities**
 
 ---
